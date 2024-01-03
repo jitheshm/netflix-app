@@ -1,0 +1,10 @@
+.footer {
+    padding-left: 43px;
+    color: rgb(115, 115, 115);
+    font-size: 13px;
+  }
+  
+  .footer-data {
+    display: flex;
+    flex-wrap: wrap;
+  }

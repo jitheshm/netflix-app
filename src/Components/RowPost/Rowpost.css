@@ -1,0 +1,41 @@
+.row-data-headline {
+    font-size: 20px;
+    padding-left: 6px;
+  }
+  
+  .row-section {
+    margin-top: 40px;
+    padding: 0 3%;
+  }
+  
+  
+  .row-data {
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  
+  .row-img {
+    max-height: 168px;
+  }
+  
+  .card {
+    background: none;
+    border: none;
+    margin: 0 5px;
+    color: #ffffff;
+  }
+  
+  .card-body {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .row-data::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .row-content {
+    margin-bottom: 37px;
+  }

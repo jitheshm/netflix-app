@@ -1,0 +1,42 @@
+.navbar {
+    background-color: #000000;
+    height: 24px;
+    padding: 16px 3%;
+    top: 0;
+    align-content: center;
+    position: fixed;
+    box-sizing: content-box;
+    z-index: 1;
+  }
+  .logo {
+    height: 60px;
+  }
+  .header-text {
+    color: #ffffff;
+    text-align: end;
+    font-weight: 400;
+  }
+
+  .header-right {
+    justify-content: flex-end;
+    display: flex;
+    font-size: 13px;
+    align-items: center;
+    margin-right: 5%;
+  }
+  
+  
+  .btn-header {
+    padding: 9px 20px;
+    height: 32px;
+    background-color: #e50914;
+    color: #ffffff;
+  }
+  
+  .header-right .btn-authlink {
+    background-color: #000000;
+    text-decoration: none;
+    border: 1px solid rgb(136, 136, 136);
+    min-width: 100px;
+  }
+ 

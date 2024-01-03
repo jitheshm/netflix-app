@@ -1,0 +1,19 @@
+.body-title {
+    margin-top: 4vw;
+  }
+  
+  .body-title h1 {
+    font-weight: 900;
+  }
+  
+  .data-body {
+    padding: 0 3%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .data-body .body-desc {
+    font-size: 20px;
+    line-height: 1.2;
+    margin-top: 7px;
+  }
